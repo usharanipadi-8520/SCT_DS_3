@@ -55,7 +55,6 @@ Key findings include:
 - The Decision Tree provides an interpretable model for understanding customer behavior.
 
 
-git clone https://github.com/yourusername/Task-03.git
 
 ## 🎯 Conclusion
 
